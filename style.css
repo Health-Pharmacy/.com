@@ -1026,3 +1026,27 @@
   .post-navigation:focus svg {
       fill: var(--primary-color);
   }
+
+
+
+  @media only screen and (max-width:500px) {
+    .product-store .product-card .card-detail {
+        padding: 5px;
+    }
+    svg.chevron-left,svg.chevron-right{
+      display: none;
+    }
+    .swiper-wrapper{
+
+    }
+    .banner{
+      margin-top:30px;
+      width: 95%;
+    }
+    #billboard .image-holder{
+      opacity: 1;
+    }
+    #billboard .image-holder{
+      margin-top: -463px;
+    }
+  }
