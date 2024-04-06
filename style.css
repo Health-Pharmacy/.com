@@ -1071,7 +1071,7 @@
     color: white;
   }
   a{
-    color: rgb(5, 5, 5);
+    color: white;
   }
   @media screen and (min-width:1000px) {
     .col-lg-3{
@@ -1079,8 +1079,6 @@
     }
    
   }
-
-
 
   /* WhatsApp chat button */
 .whatsapp-icon {
@@ -1105,7 +1103,7 @@
       width: 40px;
       height: 40px;
       bottom: 20px;
-      right: 10px;
+      right: 20px;
       font-size: 22px;
   }
 }
