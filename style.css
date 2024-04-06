@@ -980,6 +980,7 @@
         font-size: 1.2em;
         padding-right: 20px!important;
     }
+
   }
   
   
@@ -1049,7 +1050,37 @@
     #billboard .image-holder{
       margin-top: -463px;
     }
-    .social-links{
-      
+    .last-logo{
+      height: 297px;
+      width: 90%;
+    }
+    #footer{
+      background-color: #3A3A3A;
+      color: white;
+    }
+    a{
+      color: white;
     }
   }
+
+  .last-logo{
+    display: block;
+  }
+  .padding-large{
+    padding-bottom: 0;
+  }
+  #footer{
+    background-color: #3A3A3A;
+    color: white;
+  }
+  a{
+    color: white;
+  }
+  @media screen and (min-width:1000px) {
+    .col-lg-3{
+      width: 19%;
+    }
+   
+  }
+ 
+
