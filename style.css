@@ -1071,7 +1071,7 @@
     color: white;
   }
   a{
-    color: white;
+    color: rgb(0, 0, 0);
   }
   @media screen and (min-width:1000px) {
     .col-lg-3{
